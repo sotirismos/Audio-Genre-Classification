@@ -13,7 +13,7 @@ The first approach uses traditional machine learning techniques, following the m
 
 Results of first approach based on accuracy, where BFE(Backward feature elimination) and FFS(Forward feature selection).
 
-![Screenshot 2021-02-25 143841](https://user-images.githubusercontent.com/26204902/109154724-5f61f180-7777-11eb-8c75-35d4cfa87e89.png)
+![Screenshot 2021-02-25 143841](https://user-images.githubusercontent.com/26204902/109156254-4a865d80-7779-11eb-8070-4acac9c26c27.png)
 
 The second approach uses early feature integration and fusion of the decisions of the classifier in each window, a method we can refer as late feature integration.
 

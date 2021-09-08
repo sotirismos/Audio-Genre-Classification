@@ -62,7 +62,7 @@ Temporal feature integration is another approach to combine nformation. It uses 
 ![Capture](https://user-images.githubusercontent.com/26204902/132348249-cf9d4245-7006-478c-af0e-93f3d0425b44.PNG)
 
 
-###### Early feature integration/Fusion of decisions
+###### Late feature integration/Fusion of decisions
 
 Decision fusion is one form of data fusion that combines the decisions of multiple classifiers into a common decision about the activity that occurred.
 
